@@ -1,0 +1,9 @@
+{
+  "package_name": "vesc_msgs",
+  "non_idl_tuples": [
+    "/home/xenover/Bosch/AMS_system/vesc/vesc_msgs:msg/VescState.msg",
+    "/home/xenover/Bosch/AMS_system/vesc/vesc_msgs:msg/VescStateStamped.msg",
+    "/home/xenover/Bosch/AMS_system/vesc/vesc_msgs:msg/VescImu.msg",
+    "/home/xenover/Bosch/AMS_system/vesc/vesc_msgs:msg/VescImuStamped.msg"
+  ]
+}
