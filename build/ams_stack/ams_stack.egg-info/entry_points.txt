@@ -1,3 +1,0 @@
-[console_scripts]
-throttle_interpolator = ams_stack.throttle_interpolator:main
-

@@ -1,6 +1,0 @@
-Invoking command in '/home/xenover/Bosch/AMS_system/build/vesc_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/xenover/Bosch/AMS_system/vesc/vesc_msgs -DCMAKE_INSTALL_PREFIX=/home/xenover/Bosch/AMS_system/install/vesc_msgs
-Invoked command in '/home/xenover/Bosch/AMS_system/build/vesc_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/xenover/Bosch/AMS_system/vesc/vesc_msgs -DCMAKE_INSTALL_PREFIX=/home/xenover/Bosch/AMS_system/install/vesc_msgs
-Invoking command in '/home/xenover/Bosch/AMS_system/build/vesc_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/xenover/Bosch/AMS_system/build/vesc_msgs -- -j16 -l16
-Invoked command in '/home/xenover/Bosch/AMS_system/build/vesc_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/xenover/Bosch/AMS_system/build/vesc_msgs -- -j16 -l16
-Invoking command in '/home/xenover/Bosch/AMS_system/build/vesc_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/xenover/Bosch/AMS_system/build/vesc_msgs
-Invoked command in '/home/xenover/Bosch/AMS_system/build/vesc_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/xenover/Bosch/AMS_system/build/vesc_msgs
